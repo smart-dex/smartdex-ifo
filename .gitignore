@@ -1,0 +1,21 @@
+scripts/
+.DS_Store
+package-lock.json
+truffle-config.js
+/node_modules/
+/build/
+yarn.lock
+node_modules
+.env
+
+#Buidler files
+cache
+artifacts
+
+
+
+node_modules
+
+#Hardhat files
+cache
+artifacts
